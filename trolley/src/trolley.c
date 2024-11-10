@@ -30,5 +30,5 @@ int main() {
             printf("Go right\n");
         }
     }
-    return 0;;
+    return 0;
 }
